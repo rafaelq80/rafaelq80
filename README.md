@@ -6,7 +6,9 @@
 
 Cientista da Computação (UNICSUL 2006) e Especialista em Redes de Computadores (UNINOVE 2012), com mais de 20 anos de experiência na área de Tecnologia da Informação, atuando na área Técnica e na área Educacional.
 
-Sou Instrutor Lead Back-end no Curso Desenvolvedor WEB Júnior, na Generation Brasil, lecionando a Linguagem Java e o Framework Spring. Aqui voc^encontrará códigos em diversas linguagens. Fique a vontade para compartilhar.
+Instrutor Lead Back-end no Curso Desenvolvedor WEB Júnior, na Generation Brasil, lecionando a Linguagem Java e o Framework Spring. 
+
+Aqui você encontrará códigos em diversas linguagens. Fique a vontade para usar, compartilhar e contribuir.
 
 <h2>Principais Interesses</h2>
 
