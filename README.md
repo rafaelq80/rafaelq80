@@ -10,6 +10,13 @@ Atualmente estou atuando como Instrutor Lead Full Stack no Curso Desenvolvedor W
 
 Aqui você encontrará códigos em diversas linguagens e material didático de apoio a aprendizagem. Fique a vontade para usar, compartilhar e contribuir.
 
+<h2>Contatos</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/rafaelproinfo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rafaelproinfo@gmail.com)
+
+<h2>Github Statistics</h2>
+
 <div align="center">
   <a href="https://github.com/rafaelq80">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelq80&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
@@ -62,10 +69,3 @@ Aqui você encontrará códigos em diversas linguagens e material didático de a
     <img align="center" alt="rafaelq80-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kubernetes.svg">
     <img align="center" alt="rafaelq80-Github-Actions" height="30"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GithubActions-Dark.svg">
 <div> 
-
-<br />
-
-<h2>Contatos</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/rafaelproinfo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rafaelproinfo@gmail.com)
