@@ -65,6 +65,12 @@ Aqui você encontrará códigos em diversas linguagens e material didático de a
 <div> 
 
 
+<h3>Mobile</h3>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="rafaelq80-React" height="50" width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg">
+</div>
+
 
 <h3>DEVOPS</h3>
 
@@ -72,4 +78,4 @@ Aqui você encontrará códigos em diversas linguagens e material didático de a
     <img align="center" alt="rafaelq80-Docker" height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg">
     <img align="center" alt="rafaelq80-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kubernetes.svg">
     <img align="center" alt="rafaelq80-Github-Actions" height="30"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GithubActions-Dark.svg">
-<div> 
+</div> 
