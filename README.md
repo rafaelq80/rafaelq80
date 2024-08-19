@@ -1,8 +1,8 @@
 <img align="right" width="40%" src="https://github.com/rafaelq80/rafaelq80/blob/main/dev.png?raw=true">
 
-<h1>Seja bem vindo(a)!</h1>
+**Seja bem vindo(a)!**
 
-<h2>Prazer, Eu sou Rafael! </h2>
+**Prazer, Eu sou Rafael!**
 
 Cientista da Computação (UNICSUL 2006) e Especialista em Redes de Computadores (UNINOVE 2012), com mais de 20 anos de experiência na área de Tecnologia da Informação, atuando na área Técnica e na área Educacional.
 
