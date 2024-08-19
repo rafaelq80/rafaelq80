@@ -6,7 +6,7 @@
 
 Cientista da Computação (UNICSUL 2006) e Especialista em Redes de Computadores (UNINOVE 2012), com mais de 20 anos de experiência na área de Tecnologia da Informação, atuando na área Técnica e na área Educacional.
 
-Atualmente estou atuando como Instrutor Lead Full Stack no Curso Desenvolvedor WEB Júnior, na Generation Brasil, lecionando as Linguagens Java, HTML, CSS, Javascript e Typescript, além do Framework Spring e a Biblioteca React. 
+Atualmente estou atuando como Instrutor Lead Full Stack no Curso Desenvolvedor WEB Júnior, na Generation Brasil, lecionando as Linguagens Java, C#, Javascript e Typescript, além dos Frameworks Spring, ASP.NET, NestJS e a Biblioteca React. 
 
 Aqui você encontrará códigos em diversas linguagens e material didático de apoio a aprendizagem. Fique a vontade para usar, compartilhar e contribuir.
 
