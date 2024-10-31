@@ -10,6 +10,10 @@ Atualmente estou atuando como Instrutor Lead Full Stack no Curso Desenvolvedor W
 
 Aqui você encontrará códigos em diversas linguagens e material didático de apoio a aprendizagem. Fique a vontade para usar, compartilhar e contribuir.
 
+<br />
+
+[![Rafael Queiróz profile views](https://u8views.com/api/v1/github/profiles/60499241/views/day-week-month-total-count.svg)](https://u8views.com/github/rafaelq80)
+
 <h2>Contatos</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rafaelproinfo@gmail.com)
