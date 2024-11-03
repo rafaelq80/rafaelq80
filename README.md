@@ -6,7 +6,7 @@
 
 Cientista da Computação (UNICSUL 2006) e Especialista em Redes de Computadores (UNINOVE 2012), com mais de 20 anos de experiência na área de Tecnologia da Informação, atuando na área Técnica e na área Educacional.
 
-Atualmente estou atuando como Instrutor Lead Full Stack no Curso Desenvolvedor WEB Júnior, na Generation Brasil, lecionando as Linguagens Java, C#, Javascript e Typescript, além dos Frameworks Spring, ASP.NET, NestJS e a Biblioteca React. 
+Atualmente estou atuando como Instrutor Lead no Curso Desenvolvedor Full Stack WEB Júnior, na Generation Brasil, lecionando as Linguagens Java, C#, Javascript e Typescript, além dos Frameworks Spring, ASP.NET, NestJS e a Biblioteca React. 
 
 Aqui você encontrará códigos em diversas linguagens e material didático de apoio a aprendizagem. Fique a vontade para usar, compartilhar e contribuir.
 
@@ -51,7 +51,7 @@ Aqui você encontrará códigos em diversas linguagens e material didático de a
 <div style="display: inline_block"><br>
     <img align="center" alt="rafaelq80-MySQl" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
     <img align="center" alt="rafaelq80-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="rafaelq80-SQL-Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+    <img align="center" alt="rafaelq80-SQL-Server" height="35" src="https://ik.imagekit.io/vzr6ryejm/sqlserver.png?updatedAt=1730616200319" />
 <div> 
 
 
@@ -64,6 +64,7 @@ Aqui você encontrará códigos em diversas linguagens e material didático de a
      <img align="center" alt="rafaelq80-JS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
      <img align="center" alt="rafaelq80-TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
     <img align="center" alt="rafaelq80-React" height="50" width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg">
+  <img align="center" alt="rafaelq80-React" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Angular-Light.svg">
     <img align="center" alt="rafaelq80-React" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg">
     <img align="center" alt="rafaelq80-React" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Light.svg">
 <div> 
