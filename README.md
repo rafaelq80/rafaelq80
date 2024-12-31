@@ -1,14 +1,24 @@
 <img align="right" width="40%" src="https://github.com/rafaelq80/rafaelq80/blob/main/dev.png?raw=true">
 
-**Seja bem vindo(a)!**
+# Bem-vindo(a) ao meu GitHub! 
 
-**Prazer, Eu sou Rafael!**
+## Sobre mim
 
-Cientista da Computação (UNICSUL 2006) e Especialista em Redes de Computadores (UNINOVE 2012), com mais de 20 anos de experiência na área de Tecnologia da Informação, atuando na área Técnica e na área Educacional.
+Olá, sou o **Rafael**!
 
-Atualmente estou atuando como Instrutor Lead no Curso Desenvolvedor Full Stack WEB Júnior, na Generation Brasil, lecionando as Linguagens Java, C#, Javascript e Typescript, além dos Frameworks Spring, ASP.NET, NestJS e a Biblioteca React. 
+Sou **Cientista da Computação** e **Especialista em Redes de Computadores**, com mais de 20 anos de experiência em Tecnologia da Informação. Minha trajetória abrange atuação na **Área Técnica**, com foco em Infraestrutura e Desenvolvimento de Softwares, e na **Área Educacional**, lecionando e desenvolvendo materiais didáticos.
 
-Aqui você encontrará códigos em diversas linguagens e material didático de apoio a aprendizagem. Fique a vontade para usar, compartilhar e contribuir.
+Atualmente, sou **Instrutor Lead** no curso **Desenvolvedor Full Stack WEB Júnior** na **Generation Brasil**, onde ensino:
+
+- **Linguagens**: Java, C#, JavaScript e TypeScript
+- **Frameworks e bibliotecas**: Spring, ASP.NET, NestJS e React
+
+Além disso, faço parte do time responsável pelo design e desenvolvimento de materiais didáticos utilizados nos cursos, contribuindo para a formação de novas pessoas desenvolvedoras.
+
+## O que você encontrará aqui
+
+Este repositório reúne projetos, exemplos de código em diversas linguagens e materiais didáticos voltados para o aprendizado e o desenvolvimento profissional. Sinta-se à vontade para explorar, utilizar, compartilhar e contribuir com a comunidade!
+
 
 <br />
 
