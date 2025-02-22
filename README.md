@@ -6,7 +6,7 @@
 
 Olá, sou o **Rafael**!
 
-Sou **Cientista da Computação** e **Especialista em Redes de Computadores**, com mais de 20 anos de experiência em Tecnologia da Informação. Minha trajetória abrange atuação na **Área Técnica**, com foco em Infraestrutura e Desenvolvimento de Softwares, e na **Área Educacional**, lecionando e desenvolvendo materiais didáticos.
+**Cientista da Computação** e **Especialista em Redes de Computadores**, com mais de 20 anos de experiência em Tecnologia da Informação. Minha trajetória abrange atuação na **Área Técnica**, com foco em Infraestrutura e Desenvolvimento de Softwares, e na **Área Educacional**, lecionando e desenvolvendo materiais didáticos.
 
 Atualmente, sou **Instrutor Lead** no curso **Desenvolvedor Full Stack WEB Júnior** na **Generation Brasil**, onde ensino:
 
