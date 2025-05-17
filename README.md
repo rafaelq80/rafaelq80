@@ -1,96 +1,99 @@
-<img align="right" width="40%" src="https://github.com/rafaelq80/rafaelq80/blob/main/dev.png?raw=true">
+<h1 align="center">👋 Seja Bem-vindo(a)!</h1>
 
-# Bem-vindo(a) ao meu GitHub! 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rafael%20Queiróz&fontSize=45&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack%20|%20Instrutor%20Tech%20|%20Criador%20de%20Conteúdo&descSize=18&descAlignY=75&animation=fadeIn" />
+</p>
 
-## Sobre mim
 
-Olá, sou o **Rafael**!
+## 👨‍💻 Sobre
 
-**Cientista da Computação** e **Especialista em Redes de Computadores**, com mais de 20 anos de experiência em Tecnologia da Informação. Minha trajetória abrange atuação na **Área Técnica**, com foco em Infraestrutura e Desenvolvimento de Softwares, e na **Área Educacional**, lecionando e desenvolvendo materiais didáticos.
+Sou **Rafael Queiróz**, Cientista da Computação e Especialista em Redes, com mais de 25 anos de experiência na área de **Tecnologia da Informação**, atuando com:
 
-Atualmente, sou **Instrutor Lead** no curso **Desenvolvedor Full Stack WEB Júnior** na **Generation Brasil**, onde ensino:
+- 🔧 Infraestrutura e Desenvolvimento de Softwares
+- 📚 Educação Tecnológica, como Instrutor e Criador de conteúdos
 
-- **Linguagens**: Java, C#, JavaScript e TypeScript
-- **Frameworks e bibliotecas**: Spring, ASP.NET, NestJS e React
+Atualmente, sou **Instrutor Lead** no curso **Desenvolvedor Full Stack Web Júnior** na [Generation Brasil](https://brazil.generation.org/), onde ensino:
 
-Além disso, faço parte do time responsável pelo design e desenvolvimento de materiais didáticos utilizados nos cursos, contribuindo para a formação de novas pessoas desenvolvedoras.
+- 💡 **Linguagens**: Java, C#, JavaScript, TypeScript
+- 🧩 **Frameworks**: Spring, ASP.NET, NestJS, React 
 
-## O que você encontrará aqui
+Também atuo no **design e desenvolvimento de materiais didáticos**, impactando diretamente a formação de novas gerações de devs.  
 
-Este repositório reúne projetos, exemplos de código em diversas linguagens e materiais didáticos voltados para o aprendizado e o desenvolvimento profissional. Sinta-se à vontade para explorar, utilizar, compartilhar e contribuir com a comunidade!
-
+Além disso, faço parte do **[Canal Ponto e Vírgula Tech](https://www.linkedin.com/company/ponto-e-virgula-tech)**, onde compartilho conteúdos voltados à formação, carreira e prática no universo do desenvolvimento de software.
 
 <br />
 
-[![Rafael Queiróz profile views](https://u8views.com/api/v1/github/profiles/60499241/views/day-week-month-total-count.svg)](https://u8views.com/github/rafaelq80)
+## 📂 O que você encontrará por aqui
 
-<h2>Contatos</h2>
+Neste perfil você vai encontrar:
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rafaelproinfo@gmail.com)
+- 📁 Repositórios com projetos práticos e didáticos
+- 💡 Exemplos de código nas principais linguagens do mercado
+- 📘 Conteúdos educacionais gratuitos e abertos
+- 🤝 Contribuições para a comunidade tech
 
-<h2>Github Statistics</h2>
+Sinta-se à vontade para explorar, clonar, compartilhar e contribuir!
+
+<br />
+
+## 🌐 Meus Contatos
+
+<p align="left">
+  <a href="mailto:rafaelproinfo@gmail.com">
+    <img src="https://img.shields.io/badge/-rafaelproinfo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafaelq80/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rafaelq80" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/company/ponto-e-virgula-tech" target="_blank">
+    <img src="https://ik.imagekit.io/vzr6ryejm/pv_tech/badge.png?updatedAt=1747453612878" alt="Ponto e Vírgula Tech" height="28" style="margin-left: 4px;" />
+  </a>
+</p>
+
+<br />
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/rafaelq80">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelq80&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelq80&layout=compact&langs_count=7&theme=Dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelq80&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelq80&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 <br />
 
-<h2>Principais Interesses</h2>
+## 🚀 Tecnologias & Ferramentas
 
-<h3>Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="rafaelq80-Java" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg"/>
-    <img align="center" alt="rafaelq80-Spring boot" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-    <img align="center" alt="rafaelq80-php" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Light.svg">
-    <img align="center" alt="rafaelq80-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-    <img align="center" alt="rafaelq80-TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
-    <img align="center" alt="rafaelq80-Node" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg"/>
-    <img align="center" alt="rafaelq80-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-     <img align="center" alt="rafaelq80-Golang" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg">
-    <img align="center" alt="rafaelq80-Golang" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="rafaelq80-Golang" height="30"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DotNet.svg">
-<div> 
+<br />
 
+## 📈 Visualizações
 
-<h3>Banco de Dados</h3>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="rafaelq80-MySQl" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
-    <img align="center" alt="rafaelq80-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="rafaelq80-SQL-Server" height="35" src="https://ik.imagekit.io/vzr6ryejm/sqlserver.png?updatedAt=1730616200319" />
-<div> 
-
-
-
-<h3>Frontend</h3>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="rafaelq80-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="rafaelq80-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="rafaelq80-JS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
-     <img align="center" alt="rafaelq80-TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
-    <img align="center" alt="rafaelq80-React" height="50" width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg">
-  <img align="center" alt="rafaelq80-React" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Angular-Light.svg">
-    <img align="center" alt="rafaelq80-React" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg">
-    <img align="center" alt="rafaelq80-React" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Light.svg">
-<div> 
-
-
-<h3>Mobile</h3>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="rafaelq80-React" height="50" width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg">
-</div>
-
-
-<h3>DEVOPS</h3>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="rafaelq80-Docker" height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg">
-    <img align="center" alt="rafaelq80-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kubernetes.svg">
-    <img align="center" alt="rafaelq80-Github-Actions" height="30"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GithubActions-Dark.svg">
-</div> 
+<p align="center">
+  <img src="https://u8views.com/api/v1/github/profiles/60499241/views/day-week-month-total-count.svg" alt="rafaelq80 profile views" />
+</p>
