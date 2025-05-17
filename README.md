@@ -48,9 +48,9 @@ Sinta-se à vontade para explorar, clonar, compartilhar e contribuir!
   <a href="https://github.com/rafaelq80" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/company/ponto-e-virgula-tech" target="_blank">
-    <img src="https://ik.imagekit.io/vzr6ryejm/pv_tech/badge.png?updatedAt=1747453612878" alt="Ponto e Vírgula Tech" height="28" style="margin-left: 4px;" />
-  </a>
+ <a href="https://www.linkedin.com/company/ponto-e-virgula-tech" target="_blank">
+    <img src="https://ik.imagekit.io/vzr6ryejm/pv_tech/badge.svg?updatedAt=1747456451905" alt="Ponto e Vírgula Tech" height="21"/>
+ </a>
 </p>
 
 <br />
