@@ -58,8 +58,8 @@ Sinta-se à vontade para explorar, clonar, compartilhar e contribuir!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelq80&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelq80&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=rafaelq80&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafaelq80&layout=compact&theme=radical"/>
 </div>
 
 <br />
