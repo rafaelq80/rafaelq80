@@ -1,8 +1,8 @@
 <h1 align="center">👋 Seja Bem-vindo(a)!</h1>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rafael%20Queiróz&fontSize=45&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack%20|%20Instrutor%20Tech%20|%20Criador%20de%20Conteúdo&descSize=18&descAlignY=75&animation=fadeIn" />
-</p>
+</p>-->
 
 
 ## 👨‍💻 Sobre
